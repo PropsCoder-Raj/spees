@@ -1,0 +1,278 @@
+.branch .card {
+	    border-radius: 0;
+}
+
+.branch .bh .card {
+	    border-radius: 5px;
+	    width: 107%;
+}
+
+.h-115px {
+    height: 115px!important;
+}
+
+.idoc .card {
+ border-radius: 0 0 5px 5px;
+	    width: 107%;
+	    padding: 17px;
+	   background-color: #6791a7;
+	   margin-left: -27px;
+    margin-right: -42px;
+    margin-top: 20px;
+    margin-bottom: -26px;
+
+}
+
+
+.extidoc .card {
+ border-radius: 0 0 5px 5px;
+	    width: 107%;
+	    padding: 17px;
+	   background-color: #9d66c1;
+	   margin-left: -27px;
+    margin-right: -42px;
+    margin-top: 20px;
+    margin-bottom: -26px;
+
+}
+
+.btnpur {
+	background-color: #5b137f;
+}
+.wi-70 {
+	width: 61%!important;
+}
+
+.vpoct {
+	background-color: #ff657f;
+}
+
+.vpnov {
+	background-color: #f4546e;
+}
+
+.vpdec {
+	background-color: #ae9fa2;
+}
+.wi-80 {
+	width: 80%!important;
+}
+.bgyello {
+background-color: #ffca16;
+}
+
+.bgmgreen {
+	background-color: #b0d337;
+}
+
+
+.bgdrkgreen {
+	background-color: #57c841;
+}
+.ora {
+
+	background-color: #ffa800;
+}
+
+.lgreen {
+
+	background-color: #d2cd95;
+}
+
+.lblu {
+
+	background-color: #32d7ea;
+}
+
+.text-center {
+	align-items: center;
+}
+
+.w-70px {
+    width: 70px!important;
+}
+
+.h-80px {
+    height: 80px!important;
+}
+
+.bmblu {
+	background-color: #6791a7;
+}
+.text-white { color: #fff; }
+.h-90px {
+    height: 90px!important;
+}
+
+.checked {
+  color: orange;
+}
+
+.brd{
+	border-radius: 7px;
+}
+
+.bg_lgry {
+
+	background-color: #f0f0f0;
+}
+
+.bg-gol {
+
+	background-color: #d5a500;
+}
+
+.bg_lora{
+
+	background-color: #ffebd4;
+}
+
+.txtpurple {
+	color: #c4a4f1;
+}
+
+.txthgreen {
+
+	color:  #00abbf;
+}
+
+.extdocbg {
+	background-color: #9d66c1
+}
+.txtora { color: #fb7e22; }
+
+.bg_dblu {
+	background: #004eac;
+}
+
+.bg_lred{
+	background-color: #ffe1e2;
+}
+.bgmred { 
+background-color: #fb3f5e; }
+
+.aside {
+    background-color: #2a4179!important;
+}
+
+
+.aside-menu {
+    background-color: #2a4179!important;
+}
+
+.darkpur {
+
+	background-color: #593e75!important;
+}
+.darkaside-menu {
+    background-color: #593e75!important;
+}
+
+.darkmenu-item-active {
+ background-color: #9a6db2!important;
+
+}
+
+
+
+
+.darkmenu .aside-menu .menu-nav>.menu-item .menu-submenu .menu-item>.menu-heading .menu-text, .aside-menu .menu-nav>.menu-item .menu-submenu .menu-item>.menu-link .menu-text {
+    color: #fff!important;
+}
+
+
+@media (min-width: 992px) {
+.brand {
+    background-color: transparent!important;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+} }
+
+
+.aside-menu .menu-nav>.menu-item.menu-item-here>.menu-heading, .aside-menu .menu-nav>.menu-item.menu-item-here>.menu-link {
+    background-color: #2e51a6!important;
+}
+
+
+
+.darkmenu .aside-menu .menu-nav>.menu-item.menu-item-here>.menu-heading, .aside-menu .menu-nav>.menu-item.menu-item-here>.menu-link {
+    background-color: #9a6db2!important;
+}
+
+
+
+.darkmenu  .aside-menu .menu-nav>.menu-item:not(.menu-item-parent):not(.menu-item-open):not(.menu-item-here):not(.menu-item-active):hover>.menu-heading, .aside-menu .menu-nav>.menu-item:not(.menu-item-parent):not(.menu-item-open):not(.menu-item-here):not(.menu-item-active):hover>.menu-link {
+    background-color: #9a6db2!important;
+}
+
+
+
+.darkmenu .aside-menu .menu-nav>.menu-item.menu-item-active>.menu-heading,.aside-menu .menu-nav>.menu-item.menu-item-active>.menu-link{background-color:#9a6db2!important}
+.darkmenu  .aside-menu .menu-nav>.menu-item:not(.menu-item-parent):not(.menu-item-open):not(.menu-item-here):not(.menu-item-active):hover>.menu-heading,.aside-menu .menu-nav>.menu-item:not(.menu-item-parent):not(.menu-item-open):not(.menu-item-here):not(.menu-item-active):hover>.menu-link{background-color:#9a6db2!important}
+
+
+.mgry {
+	color: #596162;
+}
+
+.mora{
+
+color: #ffae2b;
+}
+
+
+.bg_vlg {
+
+	background: #e1f8ef;
+}
+
+.mgreen {
+
+	color: #1bc48b;
+}
+.bg_lblu {
+
+	background: #d1e4fd;
+}
+
+.mblu {
+
+	color: #2287fa;
+}
+.mred {
+
+	color: #f54347;
+}
+
+.extdocTod {
+
+	background: #a16de8;
+}
+
+.extdocTom {
+	background-color: #eecefd;
+}
+.indocYes {
+	background-color: #e5eeef;
+}
+
+.indocTod {
+
+	background: #00abbf;
+}
+
+
+.indocTom {
+	background: #c2f1f6;
+}
+
+
+.logbg {
+
+	background: rgb(2,0,36);
+background: linear-gradient(290deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 24%, rgba(0,212,255,1) 100%);
+}
+
+/* .collapse:not(.show) {
+    display: none !important;
+} */
